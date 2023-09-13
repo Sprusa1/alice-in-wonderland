@@ -1,3 +1,32 @@
 ul {
     list-style-type: none;
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+p {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    text-indent: 20px;
+}
+
+h1 {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+h2 {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+figcaption {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+}
+
+.stanza {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    text-align: center;
 }
